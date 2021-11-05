@@ -1,1 +1,1 @@
-# GP_SR
+# Genetic Programming for Symbolic Regression
